@@ -76,5 +76,6 @@ npm start
 ---
 
 
----
-
+---deploy link
+watch the app by clicking the link
+https://juniq-o467.vercel.app/
