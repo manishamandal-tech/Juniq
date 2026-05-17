@@ -11,8 +11,7 @@ import Testimonials from "@/components/Testimonials";
 import FAQ from "@/components/FAQ";
 import CTA from "@/components/CTA";
 import Footer from "@/components/Footer";
-import AdmissionModal from "@/components/Admissionmodal";
-
+import AdmissionModal from "@/components/AdmissionModal";
 export default function AppWrapper() {
   const [modalOpen, setModalOpen] = useState(false);
   const open = () => setModalOpen(true);
